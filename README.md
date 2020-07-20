@@ -19,15 +19,42 @@ Processing tiene una amplia biblioteca de ejemplos cuando lo instalas, en este r
 
 ## Comenzando 🚀👨‍💻🚀
 
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+### Pre-requisitos 📋
+
+_Podras correr todos los scripts con [Processing IDE](https://processing.org/)_
+
+```
+1. Processing IDE
+```
+
+### Instalación 🔧
+
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+_Para instalar Processing IDE es necesario identificar tu sistema operativo e ir a [Processing Descargar](https://processing.org/download/)_
+_**Distribuciones debian GNU/Linux**_
+
+```
+1. Descargar processing-x.x.xlinux64.tgz
+2. Descomprimir
+3. cd processing-x.x.x
+4. sudo chmod +x install.sh
+5. sudo ./install.sh
+```
+
+## Construido con 🛠️
+* [Processing IDE](https://processing.org/)
+
+## Autores ✒️
+
+* **Martín Márquez Cervantes** - *Trabajo Inicial* - [Mares](https://github.com/MarqCervMartin)
 
 
 
+## Expresiones de Gratitud 🎁
 
-
-
-
-
-
-
-
-
+* Profe rafa.
+---
+Con 💚🐴💚por [Martín.](https://github.com/MarqCervMartin)
